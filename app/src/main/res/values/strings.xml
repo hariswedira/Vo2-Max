@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Vo2max</string>
+    <string name="umur">Umur</string>
+    <string name="jarak_tempuh">Jarak Tempuh (m)</string>
+    <string name="jenis_kelamin">Jenis Kelamin</string>
+    <string name="pria">Pria</string>
+    <string name="wanita">Wanita</string>
+    <string name="hitung">Hitung</string>
+    <string name="rekomendasi">Rekomendasi</string>
+    <string name="share">Share</string>
+
+    <string name="poor">Poor VO2 Max</string>
+    <string name="good">Good VO2 Max</string>
+    <string name="excellent">Excellent VO2 Max</string>
+
+    <string name="judul_poor_1">Judul Pertama </string>
+    <string name="judul_poor_2">Judul Pertama </string>
+    <string name="judul_poor_3">Judul Pertama </string>
+    <string name="judul_poor_4">Judul Pertama </string>
+    <string name="judul_poor_5">Judul Pertama </string>
+    <string name="judul_poor_6">Judul Pertama </string>
+    <string name="judul_poor_7">Judul Pertama </string>
+    <string name="info_poor_1">Info pertama ini adalah blablalbalbalbalblablablablbalbalblasblablablablablablablablablablablablablablabal</string>
+    <string name="info_poor_2">Info pertama ini adalah blablalbalbalbalblablablablbalbalblasblablablablablablablablablablablablablablabal</string>
+    <string name="info_poor_3">Info pertama ini adalah blablalbalbalbalblablablablbalbalblasblablablablablablablablablablablablablablabal</string>
+    <string name="info_poor_4">Info pertama ini adalah blablalbalbalbalblablablablbalbalblasblablablablablablablablablablablablablablabal</string>
+    <string name="info_poor_5">Info pertama ini adalah blablalbalbalbalblablablablbalbalblasblablablablablablablablablablablablablablabal</string>
+    <string name="info_poor_6">Info pertama ini adalah blablalbalbalbalblablablablbalbalblasblablablablablablablablablablablablablablabal</string>
+    <string name="info_poor_7">Info pertama ini adalah blablalbalbalbalblablablablbalbalblasblablablablablablablablablablablablablablabal</string>
+
+    <string name="judul_good_1">Judul Pertama </string>
+    <string name="judul_good_2">Judul Pertama </string>
+    <string name="judul_good_3">Judul Pertama </string>
+    <string name="judul_good_4">Judul Pertama </string>
+    <string name="judul_good_5">Judul Pertama </string>
+    <string name="judul_good_6">Judul Pertama </string>
+    <string name="judul_good_7">Judul Pertama </string>
+    <string name="info_good_1">Info pertama ini adalah blablalbalbalbalblablablablbalbalblasblablablablablablablablablablablablablablabal</string>
+    <string name="info_good_2">Info pertama ini adalah blablalbalbalbalblablablablbalbalblasblablablablablablablablablablablablablablabal</string>
+    <string name="info_good_3">Info pertama ini adalah blablalbalbalbalblablablablbalbalblasblablablablablablablablablablablablablablabal</string>
+    <string name="info_good_4">Info pertama ini adalah blablalbalbalbalblablablablbalbalblasblablablablablablablablablablablablablablabal</string>
+    <string name="info_good_5">Info pertama ini adalah blablalbalbalbalblablablablbalbalblasblablablablablablablablablablablablablablabal</string>
+    <string name="info_good_6">Info pertama ini adalah blablalbalbalbalblablablablbalbalblasblablablablablablablablablablablablablablabal</string>
+    <string name="info_good_7">Info pertama ini adalah blablalbalbalbalblablablablbalbalblasblablablablablablablablablablablablablablabal</string>
+
+    <string name="judul_excellent_1">Judul Pertama </string>
+    <string name="judul_excellent_2">Judul Pertama </string>
+    <string name="judul_excellent_3">Judul Pertama </string>
+    <string name="judul_excellent_4">Judul Pertama </string>
+    <string name="judul_excellent_5">Judul Pertama </string>
+    <string name="judul_excellent_6">Judul Pertama </string>
+    <string name="judul_excellent_7">Judul Pertama </string>
+    <string name="info_excellent_1">Info pertama ini adalah blablalbalbalbalblablablablbalbalblasblablablablablablablablablablablablablablabal</string>
+    <string name="info_excellent_2">Info pertama ini adalah blablalbalbalbalblablablablbalbalblasblablablablablablablablablablablablablablabal</string>
+    <string name="info_excellent_3">Info pertama ini adalah blablalbalbalbalblablablablbalbalblasblablablablablablablablablablablablablablabal</string>
+    <string name="info_excellent_4">Info pertama ini adalah blablalbalbalbalblablablablbalbalblasblablablablablablablablablablablablablablabal</string>
+    <string name="info_excellent_5">Info pertama ini adalah blablalbalbalbalblablablablbalbalblasblablablablablablablablablablablablablablabal</string>
+    <string name="info_excellent_6">Info pertama ini adalah blablalbalbalbalblablablablbalbalblasblablablablablablablablablablablablablablabal</string>
+    <string name="info_excellent_7">Info pertama ini adalah blablalbalbalbalblablablablbalbalblasblablablablablablablablablablablablablablabal</string>
+</resources>
